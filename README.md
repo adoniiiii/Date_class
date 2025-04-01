@@ -10,8 +10,8 @@ This project focused on Date Handling in Java. It demonstrates date validation, 
 - Sorting a list of dates in ascending order.
 
 ## Compilation and Execution
-To run the program, you will need: 
-1. Java Development Kit (JDK) installed on your system.
+To run the program, you will need to: 
+1. Have Java Development Kit (JDK) installed on your system.
 2. Save the code as `Main.java`
 3. Compile code using the command:
 ```bash
